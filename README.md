@@ -1,1 +1,1 @@
-# GTALAB
+# GTA LAB Exercises
